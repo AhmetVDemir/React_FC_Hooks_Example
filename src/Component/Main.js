@@ -37,7 +37,7 @@ const Main = () => {
     const [uid, setUid] = useState(null);
 
     //Guncelleme vs için kullanılacak verile.
-    const [ad, setAd] = useState("Ahmet");
+    const [ad, setAd] = useState("");
     const [soyad, setSoyad] = useState("");
     const [dt, setDt] = useState("");
     const [ud, setUd] = useState("");
